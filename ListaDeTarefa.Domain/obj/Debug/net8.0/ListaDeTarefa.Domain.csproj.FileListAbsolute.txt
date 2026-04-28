@@ -5,6 +5,7 @@ D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\ob
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.AssemblyInfoInputs.cache
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.AssemblyInfo.cs
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.sourcelink.json
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.dll
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\refint\ListaDeTarefa.Domain.dll
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.pdb

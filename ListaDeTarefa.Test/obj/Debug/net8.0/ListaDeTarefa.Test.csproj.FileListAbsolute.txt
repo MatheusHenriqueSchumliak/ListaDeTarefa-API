@@ -99,6 +99,7 @@ D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Test\obj\
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Test\obj\Debug\net8.0\ListaDeTarefa.Test.AssemblyInfoInputs.cache
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Test\obj\Debug\net8.0\ListaDeTarefa.Test.AssemblyInfo.cs
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Test\obj\Debug\net8.0\ListaDeTarefa.Test.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Test\obj\Debug\net8.0\ListaDeTarefa.Test.sourcelink.json
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Test\obj\Debug\net8.0\ListaDeT.66A50BF1.Up2Date
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Test\obj\Debug\net8.0\ListaDeTarefa.Test.dll
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Test\obj\Debug\net8.0\refint\ListaDeTarefa.Test.dll

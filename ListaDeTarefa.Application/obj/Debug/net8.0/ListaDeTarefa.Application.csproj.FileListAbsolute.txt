@@ -8,6 +8,7 @@ D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Applicati
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.AssemblyInfoInputs.cache
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.AssemblyInfo.cs
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.sourcelink.json
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeT.C8FAA47C.Up2Date
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.dll
 D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\refint\ListaDeTarefa.Application.dll
