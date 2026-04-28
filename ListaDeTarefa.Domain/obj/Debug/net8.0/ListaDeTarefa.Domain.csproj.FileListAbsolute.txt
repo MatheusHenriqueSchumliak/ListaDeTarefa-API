@@ -1,0 +1,11 @@
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\bin\Debug\net8.0\ListaDeTarefa.Domain.deps.json
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\bin\Debug\net8.0\ListaDeTarefa.Domain.dll
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\bin\Debug\net8.0\ListaDeTarefa.Domain.pdb
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.AssemblyInfoInputs.cache
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.AssemblyInfo.cs
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.dll
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\refint\ListaDeTarefa.Domain.dll
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ListaDeTarefa.Domain.pdb
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Domain\obj\Debug\net8.0\ref\ListaDeTarefa.Domain.dll

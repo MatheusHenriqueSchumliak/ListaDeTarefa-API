@@ -1,0 +1,15 @@
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\bin\Debug\net8.0\ListaDeTarefa.Application.deps.json
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\bin\Debug\net8.0\ListaDeTarefa.Application.dll
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\bin\Debug\net8.0\ListaDeTarefa.Application.pdb
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\bin\Debug\net8.0\ListaDeTarefa.Domain.dll
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\bin\Debug\net8.0\ListaDeTarefa.Domain.pdb
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.csproj.AssemblyReference.cache
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.AssemblyInfoInputs.cache
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.AssemblyInfo.cs
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.csproj.CoreCompileInputs.cache
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeT.C8FAA47C.Up2Date
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.dll
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\refint\ListaDeTarefa.Application.dll
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ListaDeTarefa.Application.pdb
+D:\DESENVOLVIMENTO\Projetos Aleatorios\ListaDeTarefa-API\ListaDeTarefa.Application\obj\Debug\net8.0\ref\ListaDeTarefa.Application.dll
